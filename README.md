@@ -22,7 +22,6 @@ Yes, it _really_ is **that** easy!
 * Terminal
 * Atom
 * My Keyboard
-* My Brain
 
 ## **Licensing**
 Anyone is allowed to write a README, **even you**.  Software is protected under
